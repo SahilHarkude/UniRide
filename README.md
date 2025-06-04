@@ -26,7 +26,9 @@
 ## 🛠️ Tech Stack
 
 Frontend: React (JavaScript), CSS, HTML
+
 Backend: Node.js, Express, MongoDB
+
 Real-time: Socket.io for live notifications
 
 ---
