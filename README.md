@@ -35,7 +35,9 @@ Real-time: Socket.io for live notifications
 
 ## 📸 Screenshots 
 
-- Login/Signup Page  
+- Login/Signup Page
+- ![Screenshot 2025-06-05 085517](https://github.com/user-attachments/assets/329d4b9f-6130-4dbf-93aa-30ed96811c10)
+  
 - Ride Listing Page  
 - Chat Interface  
 - Ride Creation Page  
